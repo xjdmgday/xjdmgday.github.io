@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Luna</title>
+    <url>/zh/luna.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>遇光见影，遇你见爱！</p>
+<span id="more"></span>
+<p>春水满四泽，</p>
+<p>夏云多奇峰。</p>
+<p>秋月扬明晖，</p>
+<p>冬岭秀孤松。</p>
+<p>这首诗的作者有两种说法，一说是陶渊明，一说是顾恺之。</p>
+<p>这是一首写春夏秋冬四季变化的诗，写出春水、夏云、秋月、冬松等四季典型景象。</p>
+<p>此诗用字精准，通过“满、多、扬、秀”突出四季的特点，表达出作者对四季、对大自然的热爱，读此诗读者能够深深地感受到自然之美。</p>
+]]></content>
+      <categories>
+        <category>Yuoek</category>
+      </categories>
+      <tags>
+        <tag>Yuoek</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Yuoek</title>
     <url>/zh/yuoek.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>遇光见影，遇你见爱！</p>
@@ -24,8 +44,8 @@
       </tags>
   </entry>
   <entry>
-    <title>archives</title>
-    <url>/archives/index.html</url>
+    <title>categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
   </entry>
   <entry>
@@ -48,17 +68,6 @@
   "></iframe>
 </div>
 
-]]></content>
-  </entry>
-  <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>film</title>
-    <url>/film/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="./doubanFilm/index.html">DoubanFilm</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -168,6 +177,468 @@
     height: 0;
     overflow: hidden;
 }
+]]></content>
+  </entry>
+  <entry>
+    <title>archives</title>
+    <url>/archives/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>paint</title>
+    <url>/paint/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>film</title>
+    <url>/film/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="./doubanFilm/index.html">DoubanFilm</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Life0123</title>
+    <url>/life/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><select name="" onchange="javascript:location.href=this.value;" style="width: 102px; height: 32px; color: #333; BACKGROUND-COLOR: #fff0;border-color: rgba(201, 108, 245, 0.575);">
+    <option style="background:rgba(151, 210, 238, 0.616)"; value="/lifebook/" >书籍</option>
+    <option style="background:rgba(139, 149, 236, 0.616)"; value="/life/" >生活0123</option>
+    <option style="background:#eb99bb9d"; value="/lifeenzh/" >名词</option>
+    <option style="background:rgba(139, 221, 236, 0.616)"; value="/lifetoc/" >目录</option>
+</select>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../css/Mycss.css">
+    <title>Film</title>
+</head>
+<body>
+<div class="header">
+  <div class="nav">
+    <div class="drop-down clearfix">
+      <ul>
+        <li><a href="#">飛䎅</a>
+          <ul>
+            <li>
+              <a href="#">生活</a>
+              <ul>
+                <li>
+                  <a href="#">生活</a>
+                </li>
+                <li>
+                  <a href="#">考级</a>
+                </li>
+                <li>
+                  <a href="#">语言</a>
+                </li>
+                <li>
+                  <a href="#">运动</a>
+                </li>
+                  <li>
+                  <a href="#">经济</a>
+                </li>
+                <li>
+                  <a href="#">心理</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">计算机</a>
+              <ul>
+                <li>
+                  <a href="#">计算机</a>
+                </li>
+                <li>
+                  <a href="#">数学</a>
+                </li>
+                <li>
+                  <a href="#">物理</a>
+                </li>
+                <li>
+                  <a href="#">化学</a>
+                </li>
+                <li>
+                  <a href="#">生物</a>
+                </li>
+                <li>
+                  <a href="#">天文</a>
+                </li>
+                <li>
+                  <a href="#">工程</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">电影</a>
+              <ul>
+                <li>
+                  <a href="#">电影</a>
+                </li>
+                <li>
+                  <a href="#">文学</a>
+                </li>
+                <li>
+                  <a href="#">美术</a>
+                </li>
+                <li>
+                  <a href="#">音乐</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">哲学</a>
+              <ul>
+                <li>
+                  <a href="#">哲学</a>
+                </li>
+                <li>
+                  <a href="#">价值观</a>
+                </li>
+                <li>
+                  <a href="#">世界观</a>
+                </li>
+                <li>
+                  <a href="#">个人观</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#">生活</a>
+          <ul>
+            <li>
+              <a href="#">生活</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">考级</a>
+              <ul>
+                <li>
+                  <a href="#">小学</a>
+                </li>
+                <li>
+                  <a href="#">初中</a>
+                </li>
+                <li>
+                  <a href="#">高中</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">语言</a>
+              <ul>
+                <li>
+                  <a href="#">普通话</a>
+                </li>
+                <li>
+                  <a href="#">英语</a>
+                </li>
+                <li>
+                  <a href="#">法语</a>
+                  <ul>
+                    <li>
+                      <a href="#">Yuoek</a>
+                    </li>
+                  </ul>
+                  <li>
+                    <a href="#">德语</a>
+                  </li>
+                  <li>
+                    <a href="#">西语</a>
+                  </li>
+                  <li>
+                    <a href="#">俄语</a>
+                  </li>
+                  <li>
+                    <a href="#">日语</a>
+                  </li>
+                  <li>
+                    <a href="#">韩语</a>
+                  </li>
+                  <li>
+                    <a href="#">阿拉伯语</a>
+                  </li>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">运动</a>
+              <ul>
+                <li>
+                  <a href="#">滑板</a>
+                </li>
+                <li>
+                  <a href="#">足球</a>
+                </li>
+                <li>
+                  <a href="#">篮球</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">经济</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">心理</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#">计算机</a>
+          <ul>
+            <li>
+              <a href="#">计算机</a>
+              <ul>
+                <li>
+                  <a href="#">编程</a>
+                  <ul>
+                    <li>
+                      <a href="#">C</a>
+                    </li>
+                    <li>
+                      <a href="#">Python</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#">软件</a>
+                  <ul>
+                    <li>
+                      <a href="#">AE</a>
+                    </li>
+                    <li>
+                      <a href="'#">C4D</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">数学</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">物理</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">化学</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">生物</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">天文</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">工程</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#">电影</a>
+          <ul>
+            <li>
+              <a href="#">电影</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">文学</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">美术</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">音乐</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><a href="#">哲学</a>
+          <ul>
+            <li>
+              <a href="#">哲学</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">价值观</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#">世界观</a>
+              <ul>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+                <li>
+                  <a href="#"></a>
+                </li>
+              </ul>
+</div></div></div>
+</body>
+<iframe src="../html/Frame.html" height="720px" width="100%" scrolling="auto" frameborder="0" style="box-shadow: 0px 0px 20px -10px #fff0;" background-colorj="#fffo";>
+</iframe>
 ]]></content>
   </entry>
   <entry>
@@ -3215,6 +3686,46 @@ body a:hover{text-decoration:underline}
 ]]></content>
   </entry>
   <entry>
+    <title></title>
+    <url>/music/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="./doubanMusic/index.html">doubanMusic</a></p>
+<table>
+<thead>
+<tr>
+<th>我喜欢的音乐</th>
+<th>你是光影世界里一首可视听的歌</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <div id="aplayer-VROisksU" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="2097889854" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div></td>
+<td>
+    <div id="aplayer-gIYdYbrw" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="5469560397" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
+    ></div></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>==hello==</p>
+<p>:call_me_hand:</p>
+]]></content>
+  </entry>
+  <entry>
     <title>练习_五笔</title>
     <url>/music/%E7%BB%83%E4%B9%A0_%E4%BA%94%E7%AC%94.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>五笔打字练习</p>
@@ -3375,10 +3886,10 @@ $$</p>
 00:01:11.281 书签 2<br>
 00:01:41.244 书签 3<br>
 00:03:13.141 书签 4</p>
-<div id="echarts3896" style="width: 81%;height: 400px;margin: 0 auto"></div>
+<div id="echarts522" style="width: 81%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts3896'));
+        var myChart = echarts.init(document.getElementById('echarts522'));
 
         // 指定图表的配置项和数据
         var option = 
@@ -3477,10 +3988,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts4793" style="width: 85%;height: 400px;margin: 0 auto"></div>
+<div id="echarts4433" style="width: 85%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts4793'));
+        var myChart = echarts.init(document.getElementById('echarts4433'));
 
         // 指定图表的配置项和数据
         var option = 
@@ -3555,10 +4066,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts8773" style="width: 90%;height: 400px;margin: 0 auto"></div>
+<div id="echarts1498" style="width: 90%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts8773'));
+        var myChart = echarts.init(document.getElementById('echarts1498'));
 
         // 指定图表的配置项和数据
         var option = option = {
@@ -3638,10 +4149,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts6880" style="width: 90%;height: 400px;margin: 0 auto"></div>
+<div id="echarts9131" style="width: 90%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts6880'));
+        var myChart = echarts.init(document.getElementById('echarts9131'));
 
         // 指定图表的配置项和数据
         var option = option = {
@@ -3830,10 +4341,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts3501" style="width: 90%;height: 400px;margin: 0 auto"></div>
+<div id="echarts5323" style="width: 90%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts3501'));
+        var myChart = echarts.init(document.getElementById('echarts5323'));
 
         // 指定图表的配置项和数据
         var option = 
@@ -3869,10 +4380,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts2342" style="width: 90%;height: 400px;margin: 0 auto"></div>
+<div id="echarts1454" style="width: 90%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts2342'));
+        var myChart = echarts.init(document.getElementById('echarts1454'));
 
         // 指定图表的配置项和数据
         var option = option = {
@@ -3923,10 +4434,10 @@ option = {
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<div id="echarts9328" style="width: 90%;height: 400px;margin: 0 auto"></div>
+<div id="echarts3526" style="width: 90%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts9328'));
+        var myChart = echarts.init(document.getElementById('echarts3526'));
 
         // 指定图表的配置项和数据
         var option = const data = {
@@ -4098,496 +4609,50 @@ option = {
 <iframe src="html/Frame.html" height="600px" width="800px"> </iframe>
 <h2 id="1">1</h2>
 
-    <div id="aplayer-OMftJtjk" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-sNmoDoVy" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div>
 
-    <div id="aplayer-XmOPzDgi" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-uAQCLeFw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="55s2g552" data-server="kugou" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div>
 <h2 id="2">2</h2>
 
-    <div id="aplayer-aWJxOJtc" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-iZIDkrfA" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="9FA29DB71BD38B342A3E0A2202A9E8F9" data-server="kugou" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div>
 <h3 id="3">3</h3>
 
-    <div id="aplayer-uDbhNbrv" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-IAqXaBjH" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="60198" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 <h4 id="4">4</h4>
 
-    <div id="aplayer-hAydWcIU" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-UtIEVMdC" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="1978921795" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#777777"
     ></div>
 <h5 id="5">5</h5>
 
-    <div id="aplayer-MAqfucgQ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-VwcDNTCz" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="279795641" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#0F0F0F"
     ></div>
 <h6 id="6">6</h6>
 
-    <div id="aplayer-TQjOMeBA" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-qfFdcePq" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="001eAeSJ1sUIKg" data-server="tencent" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#5CB85C"
     ></div>
 ]]></content>
-  </entry>
-  <entry>
-    <title>Life0123</title>
-    <url>/life/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><select name="" onchange="javascript:location.href=this.value;" style="width: 102px; height: 32px; color: #333; BACKGROUND-COLOR: #fff0;border-color: rgba(201, 108, 245, 0.575);">
-    <option style="background:rgba(151, 210, 238, 0.616)"; value="/lifebook/" >书籍</option>
-    <option style="background:rgba(139, 149, 236, 0.616)"; value="/life/" >生活0123</option>
-    <option style="background:#eb99bb9d"; value="/lifeenzh/" >名词</option>
-    <option style="background:rgba(139, 221, 236, 0.616)"; value="/lifetoc/" >目录</option>
-</select>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../css/Mycss.css">
-    <title>Film</title>
-</head>
-<body>
-<div class="header">
-  <div class="nav">
-    <div class="drop-down clearfix">
-      <ul>
-        <li><a href="#">飛䎅</a>
-          <ul>
-            <li>
-              <a href="#">生活</a>
-              <ul>
-                <li>
-                  <a href="#">生活</a>
-                </li>
-                <li>
-                  <a href="#">考级</a>
-                </li>
-                <li>
-                  <a href="#">语言</a>
-                </li>
-                <li>
-                  <a href="#">运动</a>
-                </li>
-                  <li>
-                  <a href="#">经济</a>
-                </li>
-                <li>
-                  <a href="#">心理</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">计算机</a>
-              <ul>
-                <li>
-                  <a href="#">计算机</a>
-                </li>
-                <li>
-                  <a href="#">数学</a>
-                </li>
-                <li>
-                  <a href="#">物理</a>
-                </li>
-                <li>
-                  <a href="#">化学</a>
-                </li>
-                <li>
-                  <a href="#">生物</a>
-                </li>
-                <li>
-                  <a href="#">天文</a>
-                </li>
-                <li>
-                  <a href="#">工程</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">电影</a>
-              <ul>
-                <li>
-                  <a href="#">电影</a>
-                </li>
-                <li>
-                  <a href="#">文学</a>
-                </li>
-                <li>
-                  <a href="#">美术</a>
-                </li>
-                <li>
-                  <a href="#">音乐</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">哲学</a>
-              <ul>
-                <li>
-                  <a href="#">哲学</a>
-                </li>
-                <li>
-                  <a href="#">价值观</a>
-                </li>
-                <li>
-                  <a href="#">世界观</a>
-                </li>
-                <li>
-                  <a href="#">个人观</a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#">生活</a>
-          <ul>
-            <li>
-              <a href="#">生活</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">考级</a>
-              <ul>
-                <li>
-                  <a href="#">小学</a>
-                </li>
-                <li>
-                  <a href="#">初中</a>
-                </li>
-                <li>
-                  <a href="#">高中</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">语言</a>
-              <ul>
-                <li>
-                  <a href="#">普通话</a>
-                </li>
-                <li>
-                  <a href="#">英语</a>
-                </li>
-                <li>
-                  <a href="#">法语</a>
-                  <ul>
-                    <li>
-                      <a href="#">Yuoek</a>
-                    </li>
-                  </ul>
-                  <li>
-                    <a href="#">德语</a>
-                  </li>
-                  <li>
-                    <a href="#">西语</a>
-                  </li>
-                  <li>
-                    <a href="#">俄语</a>
-                  </li>
-                  <li>
-                    <a href="#">日语</a>
-                  </li>
-                  <li>
-                    <a href="#">韩语</a>
-                  </li>
-                  <li>
-                    <a href="#">阿拉伯语</a>
-                  </li>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">运动</a>
-              <ul>
-                <li>
-                  <a href="#">滑板</a>
-                </li>
-                <li>
-                  <a href="#">足球</a>
-                </li>
-                <li>
-                  <a href="#">篮球</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">经济</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">心理</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#">计算机</a>
-          <ul>
-            <li>
-              <a href="#">计算机</a>
-              <ul>
-                <li>
-                  <a href="#">编程</a>
-                  <ul>
-                    <li>
-                      <a href="#">C</a>
-                    </li>
-                    <li>
-                      <a href="#">Python</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">软件</a>
-                  <ul>
-                    <li>
-                      <a href="#">AE</a>
-                    </li>
-                    <li>
-                      <a href="'#">C4D</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">数学</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">物理</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">化学</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">生物</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">天文</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">工程</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#">电影</a>
-          <ul>
-            <li>
-              <a href="#">电影</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">文学</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">美术</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">音乐</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li><a href="#">哲学</a>
-          <ul>
-            <li>
-              <a href="#">哲学</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">价值观</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#">世界观</a>
-              <ul>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-                <li>
-                  <a href="#"></a>
-                </li>
-              </ul>
-</div></div></div>
-</body>
-<iframe src="../html/Frame.html" height="720px" width="100%" scrolling="auto" frameborder="0" style="box-shadow: 0px 0px 20px -10px #fff0;" background-colorj="#fffo";>
-</iframe>
-]]></content>
-  </entry>
-  <entry>
-    <title>paint</title>
-    <url>/paint/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>poetry</title>
     <url>/poetry/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="./doubanBook/index.html">DoubanBook</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>quotes</title>
+    <url>/quotes/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>schedule</title>
@@ -4619,50 +4684,5 @@ option = {
     <title>tags</title>
     <url>/tags/index.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title>quotes</title>
-    <url>/quotes/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/music/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="./doubanMusic/index.html">doubanMusic</a></p>
-<table>
-<thead>
-<tr>
-<th>我喜欢的音乐</th>
-<th>你是光影世界里一首可视听的歌</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-    <div id="aplayer-zAmzjrYU" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="2097889854" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div></td>
-<td>
-    <div id="aplayer-rIwKSpjL" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="5469560397" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"
-    ></div></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>==hello==</p>
-<p>:call_me_hand:</p>
-]]></content>
   </entry>
 </search>
