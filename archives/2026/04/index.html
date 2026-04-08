@@ -339,10 +339,21 @@
   </div>
 
       </div>
-      <div id="music163player">
-      <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=3337611110&auto=1&height=66">
-      </iframe>
-      </div>
+        
+    <!-- 侧边栏音乐播放器 - MetingJS版本 -->
+      <div class="sidebar-music-wrapper">
+          <meting-js
+              server="netease"
+              type="playlist"
+              id="17768971728"
+              autoplay="false"
+              theme="#2c7da0"
+              list-folded="false">
+          </meting-js>
+        </div>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 
     </div>
   </aside>
@@ -462,8 +473,6 @@
         <script async src=https://cdn.jsdelivr.net/npm/hexo-next-mouse-effect@latest/move/bubbleCursor.js></script>
       
     
-  
-
 
 
 </body>
